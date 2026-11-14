@@ -214,15 +214,12 @@ function App() {
 
   <div className="case-study-grid">
 
-    <div className="case-study-item">
-      <h3>The Challenge</h3>
-      <p>
-        Business records were traditionally maintained
-        manually using exercise books. This created a need
-        for a more organised digital approach to managing
-        inventory, purchases, customers and business transactions.
-      </p>
-    </div>
+   <div className="case-study-item">
+  <h3>The Challenge</h3>
+  <p>
+    Business records were traditionally maintained manually. This created a need for a more organised digital approach to managing inventory, purchases, customers and business transactions.
+  </p>
+</div>
 
     <div className="case-study-item">
       <h3>The Solution</h3>
